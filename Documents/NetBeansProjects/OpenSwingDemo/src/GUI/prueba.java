@@ -14,6 +14,6 @@ public class prueba {
     
     
     public void saludo(){
-        
+        int i=0;
     }
 }
