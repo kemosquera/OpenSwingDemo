@@ -14,7 +14,7 @@ public class prueba {
     
     
     public void saludo(){
-        int i=0;
+        int i=7;
         System.out.println("WELCOME EVERYBODY");
     }
 }
