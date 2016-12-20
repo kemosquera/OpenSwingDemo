@@ -14,6 +14,6 @@ public class prueba {
     
     
     public void saludo(){
-        
+        System.out.println("HOLA");
     }
 }
