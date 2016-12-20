@@ -15,6 +15,6 @@ public class prueba {
     
     public void saludo(){
         int i=0;
-        System.out.println("HOLA");
+        System.out.println("WELCOME");
     }
 }
